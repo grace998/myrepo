@@ -1,4 +1,6 @@
 # myrepo
 testing my setup
+
 A line I wrote on my local computer
-test again
+
+This is a line from RStudio
